@@ -1,8 +1,3 @@
-## **Documentação Desafio Data**
-
-Irei detalhar passo a Passo da Solução feita para esse Desafio!
-desde ja agradeço a oportunidade.
-
 ### **Extração de dados**
 A extração dos dados foi feita a 2 sites deixados no Desafio. Escolhi usar o do Censo Escolar de 2023 para obter dados das matrículas e site de benefícios para recebimento dos materiais escolares.
 
