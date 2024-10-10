@@ -1,0 +1,21 @@
+Categoria,Total_Matriculas,Tipo de Escola
+total_professores_inicial,26.207,Pública
+total_professores_finais,25.126,Pública
+total_professores_medio,17.127,Pública
+total_alunos_creche,52.519,Pública
+total_alunos_pre-escola,209.559,Pública
+total_alunos_inicial,547.879,Pública
+total_alunos_fundamental,433.447,Pública
+total_alunos_medio,365.137,Pública
+total_alunos_EJA,54.343,Pública
+Educação Especial,45.074,Pública
+total_professores_inicial,14.123,Privada
+total_professores_finais,12.527,Privada
+total_professores_medio,8.98,Privada
+total_alunos_creche,324.157,Privada
+total_alunos_pre-escola,80.263,Privada
+total_alunos_inicial,201.379,Privada
+total_alunos_fundamental,156.015,Privada
+total_alunos_medio,81.873,Privada
+total_alunos_EJA,12.924,Privada
+Educação Especial,12.04,Privada
